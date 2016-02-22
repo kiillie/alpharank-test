@@ -1,0 +1,32 @@
+.ecommerce{
+	padding: 50px;
+    background: #8C8C8C;
+}
+.ecommerce .row-1 img{
+	width: 30%;
+}
+.ecommerce .row-2 img{
+	width: 50%;
+}
+.ecommerce .row-1 div{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.ecommerce .row-2 div{
+	text-align: center;
+}
+.right{
+	float: right;
+}
+.left{
+	float: left;
+}
+.reg-form{
+	text-align: center;
+}
+.reg-form form{
+	margin: 0 auto;
+}
+.foo{
+	text-align: center;
+}
